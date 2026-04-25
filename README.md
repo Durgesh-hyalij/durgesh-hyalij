@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/durgesh-hyalij">
+<a href="https://www.linkedin.com/in/durgesh-hyalij-abfd">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/durgesh-hyalij">
